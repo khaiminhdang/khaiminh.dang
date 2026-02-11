@@ -21,4 +21,4 @@ Hi there! 👋<br>I'm Minh, a Supply Chain Analyst based in Vietnam.<br><br>With
 ---
 [![](https://visitcount.itsvg.in/api?id=khaiminhdang&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaiminhdang&show_icons=true&theme=radical)
