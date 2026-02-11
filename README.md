@@ -18,5 +18,25 @@ Hi there! 👋<br>I'm Minh, a Supply Chain Analyst based in Vietnam.<br><br>With
 ![](https://nirzak-streak-stats.vercel.app/?user=khaiminhdang&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khaiminhdang&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🔹 Productivity & Contribution Summary
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khaiminhdang&theme=default)
+
+## 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khaiminhdang&theme=github)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=khaiminhdang&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+
+
+
+
+## 🔗 Connect
+
+- LinkedIn: (add your link)
+- Email: (add your email)
+
+
+
