@@ -29,14 +29,3 @@ Hi there! 👋<br>I'm Minh, a Supply Chain Analyst based in Vietnam.<br><br>With
 
 
 
-
-
-
-
-## 🔗 Connect
-
-- LinkedIn: (add your link)
-- Email: (add your email)
-
-
-
